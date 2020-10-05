@@ -1,1 +1,1 @@
-InsertIntoTrie and DeleteFromTrie functions.
+InsertIntoTrie and DeleteFromTrie, and SearchTrie functions.
